@@ -1,0 +1,40 @@
+This dataset presents a comprehensive list of men's footballers who have achieved the remarkable milestone of scoring 50 or more goals in international matches. The dataset is curated with the aim of providing detailed statistics and insights into the most prolific scorers in the history of international football.
+
+The dataset includes the following columns:
+
+Rank: The player's rank based on the total number of international goals scored.
+Player: The name of the footballer.
+Nation: The country the footballer represents.
+Confederation: The football confederation to which the player's nation belongs (e.g., UEFA, CONMEBOL, AFC).
+Goals: Total number of goals scored in international matches.
+Caps: Number of international matches played by the footballer.
+Goals per match: Average goals scored per international match.
+Career span: The time period during which the footballer was active in international football.
+Date of 50th goal: The date on which the player scored their 50th international goal.
+This dataset serves as a valuable resource for football analysts, statisticians, and enthusiasts who wish to study trends, records, and the impact of these legendary footballers on the global stage.
+
+Whether you're conducting football research, building predictive models, or simply exploring the history of international football, this dataset is tailored to meet your needs.
+
+Date of Compilation
+This dataset was last updated on November 17, 2024.
+
+We are committed to keeping this dataset accurate and up to date. Regular updates will ensure that newly eligible players and changes in statistics are reflected promptly. Stay tuned for the latest data as we continue to track the remarkable achievements of international football's elite scorers.
+
+Analyzing the average goals per match across different eras.
+Top Players’ Performance:
+
+Identifying players with the highest goals-per-match ratio.
+Studying the evolution of international goal-scoring records over time.
+Milestone Achievements:
+
+Comparing the age or number of matches it took players to reach their 50th goal.
+Exploring the time taken by active players to achieve similar milestones.
+Country-Level Contributions:
+
+Which nations are consistently represented in the list of top scorers?
+Examining the football development of nations based on their players’ contributions.
+Historical Trends:
+
+Tracking how goal-scoring patterns have evolved over decades.
+Analyzing the impact of modern football on international goal-scoring.
+With this dataset, users can not only gain insights into individual player performances but also uncover broader trends in international football history.
